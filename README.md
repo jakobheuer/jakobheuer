@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I am Jakob 👋
+If you want to contact me you can find me here:
+[LinkedIn](https://www.linkedin.com/in/jakob-heigl-auer-66354b1b5/)
+
+## 📋 About me
+### 👨‍🎓 Education
+* Higher technical college (HTL) - Electronics and technical informatics
+* Bsc. IT-Security
+
 
 <!--
 **jakobheuer/jakobheuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
