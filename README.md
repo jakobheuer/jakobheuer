@@ -19,10 +19,5 @@ If you want to contact me you can find me here:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 (And Python but there is no fancy banner for that)
 
-#### Operating Systems? I use them all!
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
 ### Stats
 [![Jakobs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobheuer)](https://github.com/anuraghazra/github-readme-stats)
