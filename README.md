@@ -6,7 +6,8 @@ If you want to contact me you can find me here:
 ## 📋 About me
 ### 👨‍🎓 Education
 * Higher technical college (HTL) - Electronics and technical informatics
-* Studying IT-Security
+* Bachelor's Degree in IT-Security
+* Currently doing my masters in IT-Security
 
 ### Technologies used
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
