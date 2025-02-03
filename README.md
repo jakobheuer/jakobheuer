@@ -8,6 +8,8 @@ If you want to contact me you can find me here:
 * Higher technical college (HTL) - Electronics and technical informatics
 * Bachelor's Degree in IT-Security
 * Currently doing my masters in IT-Security
+### 🧪 Research
+* Physical Layer Key Generation
 
 ### Technologies used
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
